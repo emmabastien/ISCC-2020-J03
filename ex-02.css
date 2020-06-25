@@ -1,0 +1,54 @@
+html
+
+body { color: DarkSlateGrey;
+    background-color: aliceblue;
+    padding-right: 10%;
+    padding-left: 10%;
+ 
+}
+ 
+h1 { color: #8B0000;
+    background-color: black;
+    opacity: 20%;
+    font-family: nasalization-rg;
+    font-size: 45px;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration: overline;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    margin: 0;
+    
+}
+ 
+h2 { color: rgb(178,34,34);
+    font-family: nasalization-rg;
+    font-size: 25px;
+    text-decoration: underline;
+    text-align: center;
+}
+ 
+cite { border: 2px black dotted; 
+}
+
+p,ul { margin-left: 5%;
+    margin-right: 5%;
+}
+
+img { width: 33%;
+}  
+
+video { width: 33%;
+}  
+
+audio { width: 33%;
+}  
+
+.unique { color: green;
+}  
+
+.multiple { color: yellowgreen;
+}  
